@@ -1,0 +1,41 @@
+/* FONT - Geometria */
+@font-face {
+	font-family: 'Geometria-Thin';
+	src: url('../assets/fonts/Geometria/Geometria-Thin.eot');
+	src: local('☺'),
+	url('../assets/fonts/Geometria/Geometria-Thin.woff') format('woff'),
+	url('../assets/fonts/Geometria/Geometria-Thin.ttf') format('truetype'),
+	url('../assets/fonts/Geometria/Geometria-Thin.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Geometria';
+	src: url('../assets/fonts/Geometria/Geometria.eot');
+	src: local('☺'), 
+	url('../assets/fonts/Geometria/Geometria.woff') format('woff'),
+	url('../assets/fonts/Geometria/Geometria.ttf') format('truetype'),
+	url('../assets/fonts/Geometria/Geometria.svg') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Geometria-Bold';
+	src: url('../assets/fonts/Geometria/Geometria-Bold.eot');
+	src: local('☺'), 
+	url('../assets/fonts/Geometria/Geometria-Bold.woff') format('woff'),
+	url('../assets/fonts/Geometria/Geometria-Bold.ttf') format('truetype'),
+	url('../assets/fonts/Geometria/Geometria-Bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Geometria-ExtaBlack';
+	src: url('../assets/fonts/Geometria/Geometria-ExtaBlack.eot');
+	src: local('☺'), 
+	url('../assets/fonts/Geometria/Geometria-ExtaBlack.woff') format('woff'),
+	url('../assets/fonts/Geometria/Geometria-ExtaBlack.ttf') format('truetype'),
+	url('../assets/fonts/Geometria/Geometria-ExtaBlack.svg') format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
